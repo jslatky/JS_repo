@@ -1,3 +1,3 @@
 JS_repo
 =======
-My name is Jacqueline Slatky and this is my first repo. 
+My name is Jacqueline Slatky and this is my first repo on GitHub. 
